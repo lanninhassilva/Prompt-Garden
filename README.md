@@ -2,7 +2,6 @@
 
 <br>
 
-<img src="assets/banner.png" width="100%" alt="Prompt Garden - Google AI Prompt Portfolio">
 
 # 🌷 Prompt Garden
 
